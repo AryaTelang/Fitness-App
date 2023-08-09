@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "673818937571",
+    "project_id": "fitnessapp-20772",
+    "storage_bucket": "fitnessapp-20772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673818937571:android:784e74209392e494735dd6",
+        "android_client_info": {
+          "package_name": "com.example.internshipproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673818937571-3au3o4jnlhm0n9arvq7tm8660h7afgu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRMM7buvaqpGukIJ2liUaagLFJ3OrmlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673818937571-3au3o4jnlhm0n9arvq7tm8660h7afgu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673818937571-6esqvu8lijgigkmjcstn73j62m38ciba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internshipproj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
